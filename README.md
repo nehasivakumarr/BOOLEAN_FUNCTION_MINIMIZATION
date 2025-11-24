@@ -46,8 +46,41 @@ Commutative law A B = B A,A + B = B + A
 **Logic Diagram**
 
 IDENTITY LAW 
+
 <img width="809" height="402" alt="image" src="https://github.com/user-attachments/assets/f692c216-c8f6-42d3-aca8-965fca58ef08" />
 
+NULL LAW
+
+<img width="647" height="306" alt="image" src="https://github.com/user-attachments/assets/b7830db5-8b3d-42b1-864c-f9884fbb2fcb" />
+
+
+IDEMPOTENT LAW 
+
+<img width="299" height="177" alt="image" src="https://github.com/user-attachments/assets/f6d33d53-7396-4340-a45a-a5675fe1d03d" />
+
+COMPLEMENT LAW 
+
+<img width="298" height="170" alt="image" src="https://github.com/user-attachments/assets/01e19260-434d-4dfa-ae69-f4c8a37ab4e7" />
+
+DISTRIBUTIVE LAW
+
+<img width="639" height="192" alt="image" src="https://github.com/user-attachments/assets/86dabb89-0c73-4218-af04-5dcf3222eff7" />
+
+DEMORGAN'S LAW
+
+<img width="671" height="573" alt="image" src="https://github.com/user-attachments/assets/e1446159-b348-44a7-a6f6-b30470af839a" />
+
+ABSORPTION LAW
+
+<img width="486" height="116" alt="image" src="https://github.com/user-attachments/assets/fdcb9d5c-1990-45aa-85d7-59c20b768a4a" />
+
+ASSOCIATIVE LAW
+
+<img width="329" height="353" alt="image" src="https://github.com/user-attachments/assets/0d82b6da-d51f-4999-9de9-4af31ac4b3cd" />
+
+COMMUTATIVE LAW
+
+<img width="345" height="336" alt="image" src="https://github.com/user-attachments/assets/654573c6-2759-4ee7-b343-da9b9fe8337f" />
 
 **Procedure**
 
