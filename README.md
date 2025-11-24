@@ -45,6 +45,10 @@ Commutative law A B = B A,A + B = B + A
 
 **Logic Diagram**
 
+IDENTITY LAW 
+<img width="809" height="402" alt="image" src="https://github.com/user-attachments/assets/f692c216-c8f6-42d3-aca8-965fca58ef08" />
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
